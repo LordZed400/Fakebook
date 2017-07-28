@@ -1,0 +1,20 @@
+.one{
+	background: #000;
+	color: #FFF;
+	font-size: 30px;
+	height: auto;
+}
+#error{
+	font-family: Helvetica;
+	font-size: 20px;
+	color: #F00;
+	text-align: center;
+	margin: 0 auto;
+}
+#success{
+	font-family: Helvetica;
+	font-size: 20px;
+	color: #0F0;
+	text-align: center;
+	margin: 0 auto;
+}

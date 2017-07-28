@@ -1,0 +1,26 @@
+.corrector h1{
+	font-family: Century Gothic;
+	font-size: 30px;
+	color: rgb(225,225,225);
+	text-shadow: 0px 0px 10px #FFF;
+}
+.class1{
+	background: #e9ebee;
+	color: #000;	
+	margin: 0 20%;
+	height: auto;
+	padding: 25px 0;
+}
+.corrector{
+	width: 98%;
+	background: #3b5998;
+	padding: 10px 10px;
+	margin: 10px auto;
+}
+#pader{
+	padding: 20px 30px 10px 40px;
+}
+
+.marger{
+	margin: 10px 10px;
+}
