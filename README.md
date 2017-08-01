@@ -12,4 +12,4 @@ There is also a Sign Up page to create an Account.
 This Project was made keeping the MVC architecture pattern in mind.  
 ![SignUp Page](https://github.com/LordZed400/Fakebook/blob/master/Screenshots/Screenshot-11.png "SignUp Page")
   
-This Web Application uses **PHP** and **HTML as the base, **CSS** and a few **JQuery** elements for stylizing and **SQL** for databse related operations.
+This Web Application uses **PHP** and **HTML** as the base, **CSS** and a few **JQuery** elements for stylizing and **SQL** for databse related operations.
